@@ -1,4 +1,4 @@
-package at.gna.games.firstgame;
+package at.aka.project;
 
 import org.newdawn.slick.*;
 

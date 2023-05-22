@@ -41,13 +41,26 @@
     "last_opened_file_path": "C:/GameEngine (1)/Slick2DTemplate"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.testGame">
     <configuration name="AlphaMapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.newdawn.slick.tests.AlphaMapTest" />
       <module name="Slick2DTemplate" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.newdawn.slick.tests.*" />
+          <option name="PATTERN" value="at.aka.project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="at.aka.project.testGame" />
+      <module name="Slick2DTemplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.aka.project.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,6 +70,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.testGame" />
         <item itemvalue="Application.AlphaMapTest" />
       </list>
     </recent_temporary>
